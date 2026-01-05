@@ -66,7 +66,7 @@ class ConfigManager {
             gammaApiUrl: process.env.GAMMA_API_URL || 'https://gamma-api.polymarket.com',
             
             // WebSocket endpoints
-            softwareWsUrl: process.env.SOFTWARE_WS_URL || 'ws://45.130.166.119:5001',
+            softwareWsUrl: process.env.SOFTWARE_WS_URL
             polymarketWsUrl: process.env.POLYMARKET_WS_URL || 'wss://ws-subscriptions-clob.polymarket.com/ws/market',
             
             // Trading parameters
