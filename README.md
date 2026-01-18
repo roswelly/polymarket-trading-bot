@@ -125,8 +125,4 @@ npm run format
    - Verify `PRIVATE_KEY` matches `PROXY_WALLET`
    - Ensure wallet has proper permissions
 
----
 
-## License
-
-MIT
