@@ -17,14 +17,11 @@ If you find this bot helpful and profitable, I am really appreciate your support
 
 ---
 
-## Performance (PNL Snapshots)
+## Performance
 
 https://polygonscan.com/tx/0x8e1f82c30744f2df068f22d145371164f2ea237beaa55dde6ca4f022afe397cf
-<img width="352" height="222" src="https://github.com/user-attachments/assets/294c51f5-d531-450c-904c-9c19e0184a23" />
-<img width="290" height="201" src="https://github.com/user-attachments/assets/2b7633a6-d9f1-43f2-a14d-ba79f9c147b2" />
-<img width="351" height="223" src="https://github.com/user-attachments/assets/7b7ad783-98b5-4b10-a0a7-166e90f56589" />\
-<img width="442" height="257" src="https://github.com/user-attachments/assets/92674dca-76e8-4591-8b4b-54a7c5d4c39b" />
-
+<img width="463" height="194" alt="image" src="https://github.com/user-attachments/assets/97c5b62c-9a2a-47f3-b899-32ea45f6e34b" />
+<img width="458" height="193" alt="image" src="https://github.com/user-attachments/assets/d9825078-bbcc-41f6-b51c-982eeb8b8595" />
 
 ---
 
