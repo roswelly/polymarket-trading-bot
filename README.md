@@ -2,6 +2,7 @@
 A **polymarket copy trading bot** that monitors a target wallet and mirrors its trades from your proxy wallet, via Polymarket **Central Limit Order Book (CLOB)** API.
 
 ---
+
 ## Performance
 
 https://polygonscan.com/tx/0x8e1f82c30744f2df068f22d145371164f2ea237beaa55dde6ca4f022afe397cf
@@ -24,7 +25,6 @@ If you find this bot helpful and profitable, I am really appreciate your support
 **Wallet Address:** `DXxfenpMYgSngc7vfqQknK6ptUbubUVJRFUBh94Doywa`
 
 ---
-## System Architecture
 
 ### Technology Stack
 
