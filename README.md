@@ -45,15 +45,6 @@ CLOB Client (Executes Orders)
         ↓
 Order Execution (Buy/Sell/Merge Strategies)
 ```
-
----
-
-### Prerequisites
-
-- **Node.js** 18+ (npm included)
-- **MongoDB** (local or remote)
-- **Polygon wallet** funded with USDC (this bot trades from your proxy wallet)
-
 ---
 
 ## ⚙️ Configuration Reference
